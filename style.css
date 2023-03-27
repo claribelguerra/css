@@ -1,0 +1,20 @@
+h2{ 
+  font-size: 60;
+} 
+h3 { color: rgb(14, 175, 55);
+}
+
+
+ h1{
+  font-family: 'Libre Baskerville', serif;}
+
+div{
+  background-color: rgb(252, 188, 230);
+}
+img{ 
+  background-color: blueviolet;
+  border-width: 2px;
+  border-color: crimson;
+  border-style: solid;
+  
+}
